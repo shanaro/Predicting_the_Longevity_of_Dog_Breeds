@@ -124,4 +124,4 @@ Academic Use Only - Contains proprietary research data
 Faculty Advisor: Daminda Herath
 Faculty of IT
 Horizon Campus, Sri Lanka
-email@horizon.edu.lk
+horizon.edu.lk
